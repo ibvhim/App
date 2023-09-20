@@ -20,7 +20,7 @@ Follow these essential installation steps to set up SIGHT on your system:
 ### Step 1: Clone the Repository
 
 ```shell
-git clone [repository_link]
+git clone https://github.com/ibvhim/SIGHT.git
 ```
 
 ### Step 2: Change Directory
