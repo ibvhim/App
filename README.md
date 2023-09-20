@@ -79,4 +79,4 @@ python SIGHT.py
 
 
 
-<p align='center'>:octacat:</p>
+<center><p align = "center"> :star::star::star: </p> </center>
